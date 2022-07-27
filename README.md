@@ -1,2 +1,2 @@
 # python-self-hw
-Python darslari bo'yicha vazifalar
+Ushbu repasitory da python darslari bo'yicha vazifa kodlari joylashgan
